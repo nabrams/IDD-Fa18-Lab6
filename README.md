@@ -10,7 +10,15 @@ To submit your lab, fork [this repository](https://github.com/FAR-Lab/IDD-Fa18-L
 
 **Describe what changes you made to the baseline chatbot here. Don't forget to push your modified code to this repository.**
 
-I made my chatbot into a guessing game. First, the bot randomly generates a number between 1 and 100. Then the player interacting with the chatbot has 5 guesses to guess the number that the bot selected. After each guess, the bot will tell you if you are too low or too high, and if you get the right number you win! If you lose, it also tells you what the winning number was. I also changed the color to green :)
+I made my chatbot into a guessing game. First, the bot randomly generates a number between 1 and 100. Then the player interacting with the chatbot has 5 guesses to guess the number that the bot selected. After each guess, the bot will tell you if you are too low or too high.
+
+If you get the right number you win!
+
+![a relative link](./win.jpg)
+
+If you lose, it also tells you what the winning number was. I also changed the color to green :)
+
+![a relative link](./lose.jpg)
 
 ## Record someone trying out your ChatBot
 
