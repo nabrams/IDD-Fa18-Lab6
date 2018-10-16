@@ -14,11 +14,11 @@ I made my chatbot into a guessing game. First, the bot randomly generates a numb
 
 If you get the right number you win!
 
-![a relative link](./win.jpg)
+![a relative link](./win.png)
 
 If you lose, it also tells you what the winning number was. I also changed the color to green :)
 
-![a relative link](./lose.jpg)
+![a relative link](./lose.png)
 
 ## Record someone trying out your ChatBot
 
