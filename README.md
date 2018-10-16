@@ -16,9 +16,13 @@ If you get the right number you win!
 
 ![a relative link](./win.png)
 
-If you lose, it also tells you what the winning number was. I also changed the color to green :)
+If you lose, it also tells you what the winning number was.
 
 ![a relative link](./lose.png)
+
+
+I also changed the color to green :)
+
 
 ## Record someone trying out your ChatBot
 
